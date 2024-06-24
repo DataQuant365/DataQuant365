@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm a data analyst with expertise in transforming data into actionable insights through comprehensive analysis and compelling visualizations. Below is a quick overview of my skills and projects.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dataquant365" alt="dataquant365" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dataquant365" alt="dataquant365" /></a> </p>-->
 
 
 ## Skills
